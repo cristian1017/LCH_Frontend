@@ -21,4 +21,4 @@ Descargar o clonar el proyecto `git clone https://github.com/cristian1017/LCH_Fr
 ### Paso 2
 Ingresar a la carpeta del proyecto y ejecutar `npm i`
 ### Paso 3
-Ejecutar `npm run start`, para correr la API creada.
+Ejecutar `npm run start`, para correr la aplicación.
